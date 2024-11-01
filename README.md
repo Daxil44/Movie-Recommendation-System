@@ -4,7 +4,7 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 
 
-![GIF](./static/mrswsa.gif)
+![GIF](./static/gifproject.gif)
 
 
 
