@@ -4,7 +4,7 @@ Content Based Recommender System recommends movies similar to the movie user lik
 
 
 
-![GIF](https://drive.google.com/uc?export=view&id=1AvT8_1xGxl6_GnxfROHzwEc_8dWcFNnU)
+![GIF](./static/mrswsa.gif)
 
 
 
